@@ -5,10 +5,10 @@ Your task today is to complete a basic Java class called Hello.java. It should c
 
 Open the repository in GitHub Desktop (download it, if you don't already have it). Use Sublime to open and edit hello.java.
 
-Use the command line to navigate to your file:
-cd Documents
-cd GitHub
-cd testing-123-yourGitHubName
+Use the command line to navigate to your file: /n
+cd Documents /n
+cd GitHub /n
+cd testing-123-yourGitHubName /n
 
 Compile your file by typing:
 javac Hello.java
